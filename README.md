@@ -3,5 +3,5 @@
 For local testing:
 
 ```bash
-docker build -t nvbn/nginx .
+docker build -t submanio/nginx .
 ```
